@@ -1,6 +1,5 @@
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
@@ -74,3 +73,4 @@ C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\S
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elif Ozcevik\source\repos\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
